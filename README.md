@@ -22,13 +22,9 @@
 
 *Способ 1*
 
-[Ссылка](https://app.powerbi.com/reportEmbed?reportId=69e0850a-df70-4c80-a6be-78dbbee01cb4&autoAuth=true&ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d) на проект на app.powerbi.com
-
-*Способ 2*
-
 Скачать файл 4th_PBI_Segment_Khomullo.pbix из репозитория и открыть непосредственно в Power BI
 
-*Способ 3*
+*Способ 2*
 
 Для ознакомленияя проекта также предоставлены скриншоты ниже.
 
